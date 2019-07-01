@@ -74,4 +74,4 @@ publishDir = "docs"
 
 Now when running `hugo` con the commandline, a `docs` directory will appear. This directory contains a set of static files that can be directly published to github pages. 
 
-Just configure your repository in github and push into master. More documentation [here](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). 
+Just configure your repository in github and push into master. More documentation [here](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Integration with custom domains guide [here](https://help.github.com/en/articles/using-a-custom-domain-with-github-pages) and [here](https://dev.to/trentyang/how-to-setup-google-domain-for-github-pages-1p58).

@@ -31,8 +31,11 @@ interests:
 
 education:
   courses:
+  - course: Executive Program on Business Management
+    institution: Tecnológico de Monterrey
+    year: 2019
   - course: BSc in Financial Engineering
-    institution: Western Institute of Technology and Higher Education
+    institution: Instituto Tecnológico y de Estudios Superiores de Occidente
     year: 2018
 
 # Social/Academic Networking

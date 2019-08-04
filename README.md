@@ -1,9 +1,10 @@
 # [RHDZMOTA](https://rhdzmota.com) Site
 
-This site is build with the [Academic Theme] for [Hugo]. 
+This site is build with the [Academic Theme] for [Hugo] and the [academic-admin]. 
 
 [Academic Theme]: https://themes.gohugo.io/academic/
 [Hugo]: https://gohugo.io/
+[academic-admin]:https://github.com/sourcethemes/academic-admin
 
 ## Setup
 

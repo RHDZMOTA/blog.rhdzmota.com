@@ -19,6 +19,7 @@ exit-message () {
 git-submodule-management () {
   cd ./docs/ || exit-message "[ERROR] Failed to change directory;"
   echo "[INFO] Submodule add/commit/push changes;"
+  git checkout master
   git commit -a -m "${commit_message_submodule}"
   git push origin master
   cd - || exit-message "[ERROR] Failed to return to main directory"

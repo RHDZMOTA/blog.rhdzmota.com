@@ -37,9 +37,11 @@ $ hugo
 
 Or use the build script with: `bash build.sh`
 
+Using the build-script automates the submodule management and pushes directly to github-pages branch. You'll still have to add/commit your code for this repository.
+
 Add/commit changes and upload the content by just pushing into master in both the base-project and the submodule. 
 
 ```commandline
-$ git push --recurse-submodules=on-demand master
+$ git push --recurse-submodules=on-demand
 ```
 

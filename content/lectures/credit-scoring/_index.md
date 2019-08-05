@@ -21,6 +21,8 @@ menu:
     weight: 1
 ---
 
+## _Applied Machine-Learning and Big-Data for Credit Scoring_
+
 ## About this course
 
 This course aims to provide a comprehensive toolkit to create scalable credit-scoring systems. To achieve this goal, students must master state-of-the-art technologies in the field of data-engineering and machine learning. 
@@ -149,13 +151,13 @@ Consider the following homework types:
 * **Exercise**
 
     Math or programming exercises to demonstrate technical proficiency. 
-* **Report**: 
+* **Report**
 
     Technical document containing detailed analysis on a subject. Technical proficiency, analysis, and communication skills are evaluated. 
-* **Essay**:
+* **Essay**
 
     Opinion-based writing with in-depth analysis and insight on a particular subject.
-* **Code**: 
+* **Code** 
 
     Functional application following the coding best practices. Includes documentation and testing. 
 

@@ -27,7 +27,7 @@ menu:
 
 This course aims to provide a comprehensive toolkit to create scalable credit-scoring systems. To achieve this goal, students must master state-of-the-art technologies in the field of data-engineering and machine learning. 
 
-We embrace the open-source philosophy and so this course contents and the software/datasets used are open to public under a permissive license. 
+We embrace the open-source philosophy, and so this course contents and the software/datasets used are open to the public under a permissive license. 
 
 ## Requirements
 
@@ -37,6 +37,7 @@ Prospectus students must:
     * At least **4GB of RAM**. Recommended: 8GB or more.
     * Access to the internet.
 * Have basic knowledge about the following topics.
+    * Finance (e.g. interest rates, cash-flow analysis, profiling)
     * Mathematics (e.g. linear-algebra, calculus, probability & statistics)
     * Computer Science (e.g. programming languages, data structures, algorithms). 
 
@@ -53,81 +54,120 @@ Successful completion of this course should enable students to:
 
 ### Syllabus 
 
+This course covers three main topics: 
+
+1. Financial concepts & tools behind credit scoring (M1-M3).
+2. Data processing and management in financial applications (M4-M8).
+3. Predictive modeling (M9-M13). 
+
 #### **Module 1**: Introduction and Context
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+This module provides fundamental concepts for understanding credit modeling.
+
+* Relevant socio-economic factors for credit institutions. 
+* Personal & behavioral information as predictors. 
+* Conventional credit scoring.
 
 ---
 
-#### **Module 2**: Interest rates and cashflow analysis
+#### **Module 2**: Interest rates and cash-flow analysis
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+In this module, we'll review the concepts regarding interest rates and cash flow analysis. 
+
+* Net present value (NPV).
+* Internal return rate (IRR).
+* Monte Carlo simulations.
 
 ---
 
-#### **Module 3**: Python programming
+#### **Module 3**: Advanced Python programming
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+This module will teach students the principles behind the object-oriented paradigm, and some advanced programming techniques in python.
+
+* Data structures & algorithms
+* Iterators, generators, and decorators
+* Data classes and the typing module
+* Object-oriented programming
 
 ---
 
 #### **Module 4**: Data systems and reporting tools
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+This module will explore the most common data systems used in finance. We will cover SQL and NO-SQL databases and explain the tradeoffs between both approaches. 
+
+* The relational model and database normalization
+* The structured query language (SQL)
+* Object-relational mapping (ORM)
+* NO-SQL databases (e.g., Cassandra, Elasticsearch)
+* Elasticsearch query DSL
 
 ---
 
 #### **Module 5**: Functional programming with Scala
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+Functional programming has become the basis for building big-data systems. Combined with a strongly-type language, the FP constructs guarantee reliability, type safety, and performance. In this module, students are introduced to the FP paradigm via the Scala programming language. 
+
+* The java virtual machine (JVM).
+* Introduction to Scala programming. 
+* Dynamic polimorphism and algebraic data types. 
+* Generics: invariance, covariance, contravariance.
+* FP construct (e.g., fold, map, flatMap)
+* Idiomatic scala (e.g. for-comprehension. pattern matching, type-classes)
 
 ---
 
 #### **Module 6**: Batch processing with Apache Spark 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+Apache Spark is one of the most popular frameworks for big-data processing and distributed machine learning. This module introduces the batch-oriented API.
+
+* Monoids, semigroups, and functors.
+* Spark Basics: architecture, map reduce.
+* `Dataset[T]`: Typed API & operations.
+* Understanding partitions & shuffling.
+* Aggregations, joins, and SQL DSL.
 
 ---
 
 #### **Module 7**: Data quality and record linkage
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+Data quality is a common problem in the financial industry. In this module, we will review the techniques for identifying, analyzing, and taking action on data quality assurance. 
 
 ---
 
 #### **Module 8**: Entity Resolution with LSH
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+LSH is a highly scalable algorithm to solve the entity-resolution problem. This module introduces both the theory and implementation of LSH with an application on financial data. 
 
 ---
 
-#### **Module 9**: Feature engineering & model performance
+#### **Module 9**: GLMs
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+Generalized linear models are one of the most common predictive algorithms in the financial industry. We'll use this algorithm as a gateway to more complex machine-learning models. 
 
 ---
 
-#### **Module 10**: GLMs
+#### **Module 10**: Feature engineering & model performance
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+This module reviews the most common model performance metrics and feature engineering techniques. 
 
 ---
 
 #### **Module 11**: Non-Linear models
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+Distributed non-linear machine learning using Apache Spark. 
 
 ---
 
 #### **Module 12**: Hyperparameter optimization
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+
+This module enables students to leverage distributed computing to improve model predictions via hyperparameter optimization techniques.
 
 ---
 
 #### **Module 13**: Operationalizing machine-learning models
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+In this module, students will be able to create a REST API for serving a machine-learning model. We'll define the essential metrics for monitoring both performance and usage. 
 
 ---
 

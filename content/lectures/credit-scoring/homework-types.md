@@ -23,11 +23,13 @@ Academic fraud, plagiarism, or any other form of academic dishonesty will result
 A coding homework represents a complete and functional application solving a particular problem or implementing a business logic. The students should follow the coding best practices of the language being used.
 
 Style guide by language: 
+
 * [Python style guide](https://www.python.org/dev/peps/pep-0008/)
 * [Scala style guide - EPFL](https://docs.scala-lang.org/style/)
 * [Scala style guide - Databricks](https://github.com/databricks/scala-style-guide)
 
 Formatting tools:
+
 * [Black for Python](https://github.com/psf/black)
 * [Scalariform code formatter](https://github.com/scala-ide/scalariform)
 

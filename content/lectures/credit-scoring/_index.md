@@ -177,11 +177,12 @@ In this module, students will be able to create a REST API for serving a machine
 
 The grading system is fairly simple: 
 
-| Activity | #  | %  |
-|----------|----|----|
-| Homework | 14 | 40 |
-| Exams    | 3  | 30 |
-| Projects | 2  | 30 |
+| Activity   | #  | %  |
+|------------|----|----|
+| Homework   | 14 | 40 |
+| Exams      | 3  | 30 |
+| Projects   | 2  | 20 |
+| Class Work | -  | 10 |
 
 ### Homework (40%)
 
@@ -238,12 +239,12 @@ Total points: **200**
 [13]: https://rhdzmota.com/lectures/credit-scoring/hw13/
 [14]: https://rhdzmota.com/lectures/credit-scoring/hw14/
 
-### Projects (30%)
+### Projects (20%)
 
 There will be two projects. Final dates are to be defined, but tentatively: 
 
-* **Project 1**: W09/S01 (15%)
-* **Project 2**: W15/S02 (15%)
+* **Project 1**: W09/S01 (10%)
+* **Project 2**: W15/S02 (10%)
 
 ### Exams (30%)
 

@@ -60,7 +60,9 @@ This course covers three main topics:
 2. Data processing and management in financial applications (M4-M8).
 3. Predictive modeling (M9-M13). 
 
-#### **Module 1**: Introduction and Context
+---
+
+#### **Module 01**: Introduction and Context
 
 This module provides fundamental concepts for understanding credit modeling.
 
@@ -70,7 +72,7 @@ This module provides fundamental concepts for understanding credit modeling.
 
 ---
 
-#### **Module 2**: Interest rates and cash-flow analysis
+#### **Module 02**: Interest rates and cash-flow analysis
 
 In this module, we'll review the concepts regarding interest rates and cash flow analysis. 
 
@@ -80,7 +82,7 @@ In this module, we'll review the concepts regarding interest rates and cash flow
 
 ---
 
-#### **Module 3**: Advanced Python programming
+#### **Module 03**: Advanced Python programming
 
 This module will teach students the principles behind the object-oriented paradigm, and some advanced programming techniques in python.
 
@@ -91,7 +93,7 @@ This module will teach students the principles behind the object-oriented paradi
 
 ---
 
-#### **Module 4**: Data systems and reporting tools
+#### **Module 04**: Data systems 
 
 This module will explore the most common data systems used in finance. We will cover SQL and NO-SQL databases and explain the tradeoffs between both approaches. 
 
@@ -103,7 +105,7 @@ This module will explore the most common data systems used in finance. We will c
 
 ---
 
-#### **Module 5**: Functional programming with Scala
+#### **Module 05**: Functional programming with Scala
 
 Functional programming has become the basis for building big-data systems. Combined with a strongly-type language, the FP constructs guarantee reliability, type safety, and performance. In this module, students are introduced to the FP paradigm via the Scala programming language. 
 
@@ -116,7 +118,7 @@ Functional programming has become the basis for building big-data systems. Combi
 
 ---
 
-#### **Module 6**: Batch processing with Apache Spark 
+#### **Module 06**: Batch processing with Apache Spark 
 
 Apache Spark is one of the most popular frameworks for big-data processing and distributed machine learning. This module introduces the batch-oriented API.
 
@@ -128,19 +130,19 @@ Apache Spark is one of the most popular frameworks for big-data processing and d
 
 ---
 
-#### **Module 7**: Data quality and record linkage
+#### **Module 07**: Data quality and record linkage
 
 Data quality is a common problem in the financial industry. In this module, we will review the techniques for identifying, analyzing, and taking action on data quality assurance. 
 
 ---
 
-#### **Module 8**: Entity Resolution with LSH
+#### **Module 08**: Entity Resolution with LSH
 
 LSH is a highly scalable algorithm to solve the entity-resolution problem. This module introduces both the theory and implementation of LSH with an application on financial data. 
 
 ---
 
-#### **Module 9**: GLMs
+#### **Module 09**: GLMs
 
 Generalized linear models are one of the most common predictive algorithms in the financial industry. We'll use this algorithm as a gateway to more complex machine-learning models. 
 
@@ -203,22 +205,21 @@ Consider the following homework types:
 
 #### Delivery dates
 
-|      | Title                                    | Type       | Deadline | Points |
-|------|------------------------------------------|------------|----------|--------|
-| [1]  | Sociodemographic Data                    | Data Entry | W01/S01  | 05     |
-| [2]  | Simple Data Analysis                     | Report     | W01/S02  | 10     |
-| [3]  | Social Stability and Inflation Rates     | Essay      | W02/S04  | 15     |
-| [4]  | Personal Credit Score                    | Data Entry | W03/S05  | 05     |
-| [5]  | The Role of Tech in Financial Innovation | Essay      | W03/S06  | 15     |
-| [6]  | Expected Interest Rate                   | Code       | W04/S08  | 20     |
-| [7]  | L.A. Traffic Collision Analysis          | Report     | W06/S12  | 10     |
-| [8]  | Data Modeling with Scala                 | Exercise   | W07/S13  | 10     |
-| [9]  | Functional Programming with Scala        | Exercise   | W07/S14  | 20     |
-| [10] | Dataset Transformations                  | Exercise   | W08/S16  | 10     |
-| [11] | Record Matching Application              | Code       | W10/S19  | 25     |
-| [12] | The Big Data Revolution                  | Essay      | W11/S21  | 15     |
-| [13] | Privacy in the Fintech Era               | Essay      | W12/S24  | 15     |
-| [14] | GLMs with Apache Spark                   | Code       | W13/S26  | 25     |
+|      | Title                                          | Type       | Deadline | Points |
+|------|------------------------------------------------|------------|----------|--------|
+| [1]  | Submit Credit Score & Personality Traits       | Data Entry | W02/S02  | 10     |
+| [2]  | Social Stability and Inflation Rates           | Essay      | W03/S01  | 15     |
+| [3]  | Expected Interest Rate                         | Code       | W04/S01  | 25     |
+| [4]  | Country Hapiness and Wine Reviews              | Report     | W05/S02  | 10     |
+| [5]  | Student Performance                            | Report     | W06/S02  | 10     |
+| [6]  | Data Modeling with Scala                       | Exercise   | W07/S01  | 10     |
+| [7]  | Functional Programming with Scala              | Exercise   | W08/S01  | 10     |
+| [8]  | Dataset Transformations                        | Code       | W09/S01  | 25     |
+| [9]  | Record Matching Application                    | Code       | W10/S01  | 25     |
+| [10] | The Role of Technology in Financial Innovation | Essay      | W11/S01  | 15     |
+| [11] | L.A. Traffic Collision Analysis                | Report     | W12/S02  | 10     |
+| [12] | GLMs with Apache Spark                         | Code       | W13/S02  | 25     |
+| [13] | ML Questions                                   | Exercise   | W15/S01  | 10     |
 
 Total points: **200**
 
@@ -239,11 +240,18 @@ Total points: **200**
 
 ### Projects (30%)
 
-To be defined. 
+There will be two projects. Final dates are to be defined, but tentatively: 
+
+* **Project 1**: W09/S01 (15%)
+* **Project 2**: W15/S02 (15%)
 
 ### Exams (30%)
 
-To be defined. 
+There will be three exams; one per general topic. Final dates are to be defined, but tentatively: 
+
+* **Exam 1**: W05/S02 (10%)
+* **Exam 2**: W10/S02 (10%)
+* **Exam 3**: W16/S01 (10%)
 
 ## Attendance monitoring
 

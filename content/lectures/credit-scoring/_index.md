@@ -179,7 +179,7 @@ The grading system is fairly simple:
 
 | Activity   | #  | %  |
 |------------|----|----|
-| Homework   | 14 | 40 |
+| Homework   | 13 | 40 |
 | Exams      | 3  | 30 |
 | Projects   | 2  | 20 |
 | Class Work | -  | 10 |
@@ -211,7 +211,7 @@ Consider the following homework types:
 | [1]  | Submit Credit Score & Personality Traits       | Data Entry | W02/S02  | 10     |
 | [2]  | Social Stability and Inflation Rates           | Essay      | W03/S01  | 15     |
 | [3]  | Expected Interest Rate                         | Code       | W04/S01  | 25     |
-| [4]  | Country Hapiness and Wine Reviews              | Report     | W05/S02  | 10     |
+| [4]  | Country Happiness and Wine Reviews             | Report     | W05/S02  | 10     |
 | [5]  | Student Performance                            | Report     | W06/S02  | 10     |
 | [6]  | Data Modeling with Scala                       | Exercise   | W07/S01  | 10     |
 | [7]  | Functional Programming with Scala              | Exercise   | W08/S01  | 10     |

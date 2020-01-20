@@ -7,12 +7,12 @@ date: "2019-08-01T00:00:00+01:00"
 draft: false
 menu:
   credit-scoring:
-    parent: III Resources
+    parent: II Resources
     weight: 1002
 
 ---
 
-## Applied Machine-Learning and Big-Data for Credit Scoring
+## Applied Machine-Learning and Big-Data for Credit Risk
 
 This lecture might be given in one or more universities. This privacy policy explains how the data we collect is managed in extension to the particular privacy concerns of the holding university. 
 

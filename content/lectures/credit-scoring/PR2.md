@@ -1,5 +1,5 @@
 ---
-title: Credit Scoring Application
+title: Project II
 linktitle: PR 2
 toc: true
 type: docs

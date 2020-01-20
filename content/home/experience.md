@@ -19,13 +19,28 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Senior Data Engineer"
+  company = "PayClip"
+  company_url = "https://clip.mx/"
+  location = "Guadalajara, Mexico"
+  date_start = "2019-09-15"
+  date_end = ""
+  description = """
+  * Data processing pipeline with Scala, Python, Airflow, and Apache Spark.
+  * External data integration and business automation.
+  * Contribute on R&D of new financial products.
+  """
+  
+[[experience]]
+  title = "Senior Data Engineer"
   company = "LeadGenius"
   company_url = "https://www.leadgenius.com/about/"
   location = "Guadalajara, Mexico"
   date_start = "2018-11-01"
-  date_end = ""
+  date_end = "2019-09-15"
   description = """
-  
+  * Created the data processing pipeline from scratch using Scala & Apache Spark.
+  * Created a search interface based on Django and Elasticsearch.
+  * Business data-modeling and data-quality assessments.
   """
 
 [[experience]]

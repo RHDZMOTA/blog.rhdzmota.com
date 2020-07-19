@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 # Global variables
+export HUGO_ENV="production"
 date_string="$(date +"%F %H:%M:%S")"
 commit_message_submodule="${date_string} Automatic update!"
 commit_message_main="${date_string} Automatic submodule tracking!"

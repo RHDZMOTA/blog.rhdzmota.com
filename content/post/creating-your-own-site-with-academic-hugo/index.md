@@ -25,7 +25,10 @@ The [Academic Theme] for [Hugo] allows you to easily create a website using [mar
 
 ## Setup
 
-Go to the [academic-kickstart github page](https://github.com/sourcethemes/academic-kickstart) and fork the repositroy.
+Go to a [working fork of the academic-kickstart github repository](https://github.com/rhdzmota/academic-kickstart)
+and fork the repository. Note that the version I provide on my github is compatible with the instructions on this
+blogpost. You can try forking the latest [academic-kickstart github repository](https://github.com/sourcethemes/academic-kickstart)
+but be aware you might have to use another hugo version than the one provided on this guide.
 
 
 Now download the content with:

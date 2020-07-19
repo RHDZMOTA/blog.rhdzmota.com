@@ -38,5 +38,9 @@ while read -r file; do
   fix-urls-in-file "${file}"
 done < <(find docs -name '*.html')
 
+# Add missing resources
+cp -r resources docs/
+rm -r resources
+
 # Add/commit submodule changes
 git-submodule-management

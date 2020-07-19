@@ -1,7 +1,8 @@
 [submodule "themes/academic"]
 	path = themes/academic
-	url = https://github.com/RHDZMOTA/hugo-academic.git
+	url = git@github.com:RHDZMOTA/hugo-academic.git
 	branch = custom
 [submodule "docs"]
 	path = docs
 	url = git@github.com:RHDZMOTA/rhdzmota.github.io.git
+

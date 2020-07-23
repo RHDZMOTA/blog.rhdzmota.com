@@ -40,7 +40,7 @@ $ mkdir my-site && \
     tar xz -C my-site --strip-components 1
 ```
 
-**Replace** `my-site` with the name of the repository that will contain your site's code (optional) and `github-username` with your github username (e.g. `rhdzmota` in my case). 
+**Replace** `my-site` with the name of the repository that will contain your site's code (optional) and `github-username` with your github username (or use `rhdzmota` if you didn't fork the repo). 
 
 
 Install hugo (select your version [here](https://github.com/gohugoio/hugo/releases)). For debian-based distributions: 

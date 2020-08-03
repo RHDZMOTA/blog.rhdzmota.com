@@ -56,3 +56,10 @@ stateDiagram
 * Directory: how-to-write-and-why-to-care-about-it
 * Base Path: rhdzmota-site/content/post
 * URL: https://hackmd.io/6sYYZnzFQe6xUd0Y-RGYMg
+
+## [DOCS-3](https://hackmd.io/eMsjVnw1Rv-32794UF3B9w)
+* Status: Defining
+* Title: My writing process
+* Directory: my-writing-process
+* Base Path: rhdzmota-site/content/post
+* URL: https://hackmd.io/eMsjVnw1Rv-32794UF3B9w

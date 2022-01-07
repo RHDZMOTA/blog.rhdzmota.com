@@ -1,5 +1,5 @@
 ---
-title: Tools
+title: My Personal Tools
 layout: docs # Do not modify.
 
 # Optional header image (relative to `static/img/` folder).
@@ -8,4 +8,5 @@ header:
   image: ""
 ---
 
-### My Personal Tools
+This site contains a reference to some utility digital tools.
+

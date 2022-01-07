@@ -12,7 +12,7 @@ Use [this blogpost](https://rhdzmota.com/post/creating-your-own-site-with-academ
 
 ```commandline
 $ sudo apt install wget && \
-    wget -O hugo.deb 'https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_extended_0.55.6_Linux-64bit.deb' && \
+    wget -O hugo.deb 'https://github.com/gohugoio/hugo/releases/download/v0.91.2/hugo_extended_0.91.2_Linux-64bit.deb' && \
     sudo dpkg -i hugo.deb
 ```
 

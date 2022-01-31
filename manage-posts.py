@@ -27,6 +27,7 @@ SITE_BLOGPOST_CONTENT_PATH = os.environ.get(
     default="public-notes"
 )
 
+
 class Main:
 
     def __init__(self):

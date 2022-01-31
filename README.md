@@ -46,3 +46,20 @@ Add/commit changes and upload the content by just pushing into master in both th
 $ git push --recurse-submodules=on-demand
 ```
 
+## Register a new hackmd blogpost
+
+Once the hackmd blogpost is already in sync with the rhdzmota-public-notes repo, execute the following command
+to download the latest changes:
+
+```commandline
+$ bash update-submodules.sh
+```
+
+Create the configuration files on `blogpost_configs`. Note that the configuration filename should match with the
+`public-notes` post filename. Once this is done, activate your virtualenv and execute:
+
+```commandline
+$ python manage-posts.py create-posts
+```
+
+Great! You should be good to go. Follow the `publishing` instructions to get your changes to the webpage.

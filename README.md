@@ -6,6 +6,8 @@ This site is build with the [Academic Theme] for [Hugo] and the [academic-admin]
 [Hugo]: https://gohugo.io/
 [academic-admin]:https://github.com/sourcethemes/academic-admin
 
+![](implementation.png)
+
 ## Setup
 
 Use [this blogpost](https://rhdzmota.com/post/creating-your-own-site-with-academic-hugo/) to install Academic Hugo into your local system. Or just copy and paste: 

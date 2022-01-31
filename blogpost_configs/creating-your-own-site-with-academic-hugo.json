@@ -1,0 +1,11 @@
+{
+  "title": "Creating your own site with Academic Hugo",
+  "subtitle": "An easy setup guide to create your own Hugo Academic Site! Linux Version.",
+  "summary": "This is a test post  & documentation on how to install academic hugo on a debian-based linux distro.",
+  "tags": [
+    "Example",
+    "Setup"
+  ],
+  "categories": [],
+  "draft": false
+}

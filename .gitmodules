@@ -5,4 +5,7 @@
 [submodule "docs"]
 	path = docs
 	url = git@github.com:RHDZMOTA/rhdzmota.github.io.git
-
+[submodule "public-notes"]
+	path = public-notes
+	url = git@github.com:RHDZMOTA/rhdzmota-public-notes.git
+	branch = main

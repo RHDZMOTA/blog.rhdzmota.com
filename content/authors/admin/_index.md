@@ -49,6 +49,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/rhdzmota
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/rhdzmota.code
 - icon: linkedin-in
   icon_pack: fab
   link: https://linkedin.com/in/rhdzmota

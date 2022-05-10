@@ -14,7 +14,7 @@ draft: false
 projects: []
 ---
 
-The following table contains the anonymized 100 best seller product catalog for the `Nozama Online Store`:
+The following table contains the anonymized 1000 best seller product catalog for the `Nozama Online Store`:
 
 
 | product_id                           | category               |   price |   quality_score |

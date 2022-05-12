@@ -1,0 +1,10 @@
+{
+  "title": "QuickStart: Reading data from google-sheets with python",
+  "subtitle": "Simple minimal guide to read data from google-sheets using python.",
+  "summary": "This blogpost layouts the minimal configuration to get going a python google-sheet integration.",
+  "tags": [
+    "Code"
+  ],
+  "categories": [],
+  "draft": false
+}

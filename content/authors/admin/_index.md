@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Data Engineer
+role: Lead Data Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -73,4 +73,4 @@ user_groups:
 
 Rodrigo is a **Data Professional** with working experience designing and implementing data architectures & machine-learning pipelines in Python & Scala. Due to his academic background, he has strong skills in mathematics, predictive modeling, and financial domain knowledge. He has a keen interest in functional programming, artificial intelligence, and distributed systems. 
 
-Currently working at Clip as a **senior data-engineer** and at Western Institute of Technology and Higher Education as a machine-learning & data engineering professor. 
+Currently working at Clip as the **Lead Data Engineer** and at Western Institute of Technology and Higher Education as a machine-learning & data engineering professor. 

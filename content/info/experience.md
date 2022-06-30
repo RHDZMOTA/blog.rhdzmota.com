@@ -17,16 +17,35 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+title = "Lead Data Engineer"
+company = "PayClip"
+company_url = "https://clip.mx/"
+location = "Guadalajara, Mexico"
+date_start = "2022-05-23"
+date_end = ""
+description = """
+  * Hands-on technical leadership role.
+  * Data architecture design & pipeline development.
+  * Lead the technical implementation of the data platform (OLAP environment).
+  * Managed a centralized data-team with company-wide stakeholders.
+  * Ensure best coding practices, high-quality deliveries, and technical proficiency across the team.
+  """
+
 [[experience]]
   title = "Senior Data Engineer"
   company = "PayClip"
   company_url = "https://clip.mx/"
   location = "Guadalajara, Mexico"
   date_start = "2019-09-15"
-  date_end = ""
+  date_end = "2022-05-23"
   description = """
-  * Data processing pipeline with Scala, Python, Airflow, and Apache Spark.
-  * External data integration and business automation.
+  * Development & support of the OLAP environment: Data Lake (e.g., S3, parquet, delta tables) & Warehouse (Snowflake, dimensional data modeling).
+  * Data replication (CDC) & integration ETL/ELT development with pyspark.
+  * Implemented a serverless architecture in AWS Cloud: Lambda, SQS, etc.
+  * Developed a set of internal tools and python libraries (e.g., machine-learning support libraries for data scientists). 
+  * Data modeling and business automation.
   * Contribute on R&D of new financial products.
   """
   

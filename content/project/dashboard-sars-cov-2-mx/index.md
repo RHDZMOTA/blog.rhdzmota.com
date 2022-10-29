@@ -38,7 +38,7 @@ The chart contains the following time-series:
 * `ma_long`: 21-day moving average 
 
 <iframe
-src='https://share.streamlit.io/rhdzmota/sars-cov-2-mx/main/dashboard.py'
+src='https://share.streamlit.io/rhdzmota/sars-cov-2-mx/main/dashboard.py?embed=true'
 height="750"
 width="100%">
 </iframe>

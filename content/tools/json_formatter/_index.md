@@ -19,7 +19,7 @@ menu:
 ---
 
 <iframe
-    src='https://share.streamlit.io/rhdzmota/json-formatter-streamlit/main/app.py'
+    src='https://share.streamlit.io/rhdzmota/json-formatter-streamlit/main/app.py?embed=true'
     height="1000"
     width="100%">
 </iframe>

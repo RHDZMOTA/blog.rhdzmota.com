@@ -19,7 +19,7 @@ menu:
 ---
 
 <iframe
-    src='https://share.streamlit.io/rhdzmota/simpoll-streamlit/main/app.py?view=question_configs'
+    src='https://share.streamlit.io/rhdzmota/simpoll-streamlit/main/app.py?view=question_configs?embed=true'
     height="1000"
     width="100%">
 </iframe>

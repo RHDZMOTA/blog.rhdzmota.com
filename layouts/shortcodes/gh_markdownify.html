@@ -1,6 +1,15 @@
 {{ $src := .Get "src" }}
-{{ with resources.GetRemote $src }}
-  <div>
+{{ $lastfetch := (now.Format "2006-01-02 15:04 MST") }}
+
+<div>
+  Content last fetched: {{ $lastfetch }}
+</div>
+
+{{ $cacheKey := print $src $lastfetch }}
+{{ with resources.GetRemote $src (dict "key" $cacheKey)}}
+
+<div>
   {{ .Content | markdownify | emojify }}
-  </div>
+</div>
+
 {{ end }}

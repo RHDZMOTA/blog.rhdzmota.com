@@ -1,9 +1,7 @@
 ---
-title: Spotlight
+title: Spotlight Section
 layout: docs  # Do not modify.
 ---
-
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"></script>
 
 This section is used for external resources promotions such as events, blogposts, articles, etc. 
 

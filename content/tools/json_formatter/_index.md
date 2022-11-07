@@ -18,9 +18,12 @@ menu:
     weight: 1
 ---
 
-<iframe
-    src='https://share.streamlit.io/rhdzmota/json-formatter-streamlit/main/app.py?embed=true'
-    height="1000"
-    width="100%">
-</iframe>
+<style>
+	iframe {
+		height: 7500px;
+		width: 820px;
+	}	
+</style>
 
+<iframe src='https://json-formatter.streamlit.app/?embed=true'>
+</iframe>

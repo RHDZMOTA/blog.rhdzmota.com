@@ -1,0 +1,6 @@
+{{ $src := .Get "src" }}
+{{ with resources.GetRemote $src }}
+  <div>
+  {{ .Content | markdownify | emojify }}
+  </div>
+{{ end }}

@@ -28,13 +28,22 @@ and job opportunities will continue to be shared by your professor on the public
 Users (students) will not be removed after the end of semester, but you can sign-out/delete
 your account at any time.
 
+<div class="alert alert-warning" role="alert">
+The <strong>Slack Channel</strong> will be soon deprecated in favor of a <a href="https://matrix.org/docs/guides/introduction#what-is-matrix\">Matrix Server (click for more info)</a>.
+This page will be updated once the server is up-and-running.
+</div>
+
 **Are there any benefits on joining the slack workspace, even as a previous student?** Yes. As mentioned before,
 your professor will continue to publish complementary information and opportunities on Slack. There are also a few extra benefits you should be aware of:
 
-* [ITESO-Industry Strategic Collaboration][url-iteso-industry] (in progress)
-* [ITESO-Saturdays.AI GDL Collaboration][url-iteso-saturdays] (in progress)
+* [ITESO-Industry Strategic Collaboration][url-iteso-industry] (cancelled)
+* [ITESO-Saturdays.AI GDL Collaboration][url-iteso-saturdays] (cancelled)
 
 [url-iteso-industry]: /404
 [url-iteso-saturdays]: /404
+
+**I'm a former student, how can I reach-out to the professor to ask for professional advice?** The preferred way of contact
+will be via the `Matrix Server` once the infrastructure is up and running. Alternatively, you can reach out to me via email
+(`professor@rhdzmota.com`) or schedule a 1:1 session (30 min.) [here (calendly)](https://calendly.com/rhdzmota/iteso-office-hours).
 
 ----

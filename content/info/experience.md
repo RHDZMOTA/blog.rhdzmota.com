@@ -19,19 +19,46 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+title = "Data Manager - Data Engineering & Business Intelligence"
+company = "PayClip"
+company_url = "https://clip.mx/"
+location = "Guadalajara, Mexico"
+date_start = "2022-09-01"
+date_end = ""
+description = """
+* Design and maintain the analytical platform (OLAP) by leveraging the
+   data-engineering (foundational work) & business-intelligence teams (reporting
+   systems).
+* Align with stakeholders and coordinate with data science managers to provide
+  timely, resilient, and scalable solutions for the business.
+* Hands-on data engineering manager that leads by example, promoting best
+  coding practices and working side-by-side with data engineers when needed.
+
+<p></p>
+
+**Skills**: Data Engineering · Big Data · Python · SQL · Amazon Web Services (AWS) · Leadership · Apache Spark
+"""
+
+
+[[experience]]
 title = "Lead Data Engineer"
 company = "PayClip"
 company_url = "https://clip.mx/"
 location = "Guadalajara, Mexico"
-date_start = "2022-05-23"
-date_end = ""
+date_start = "2022-03-01"
+date_end = "2022-09-01"
 description = """
   * Hands-on technical leadership role.
-  * Data architecture design & pipeline development.
+  * Data platform design in AWS, Databricks, and Snowflake.
+  * Coordinate and mentor the data-engineering team on implementing technical solutions.
   * Lead the technical implementation of the data platform (OLAP environment).
   * Managed a centralized data-team with company-wide stakeholders.
   * Ensure best coding practices, high-quality deliveries, and technical proficiency across the team.
-  """
+
+<p></p>
+
+**Skills**: Data Engineering · Machine Learning · Python · SQL · Amazon Web Services (AWS) · Apache Spark
+"""
 
 [[experience]]
   title = "Senior Data Engineer"
@@ -39,7 +66,7 @@ description = """
   company_url = "https://clip.mx/"
   location = "Guadalajara, Mexico"
   date_start = "2019-09-15"
-  date_end = "2022-05-23"
+  date_end = "2022-03-01"
   description = """
   * Development & support of the OLAP environment: Data Lake (e.g., S3, parquet, delta tables) & Warehouse (Snowflake, dimensional data modeling).
   * Data replication (CDC) & integration ETL/ELT development with pyspark.
